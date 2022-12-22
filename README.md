@@ -1,4 +1,4 @@
-# Weather with React 
+# Weather Project with React 
 
 ![weather_project](https://user-images.githubusercontent.com/110597975/209096063-9934641c-44dd-408b-8bc3-cc87263c56ca.png)
 
